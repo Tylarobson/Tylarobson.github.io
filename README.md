@@ -36,20 +36,27 @@
   
   When testing this website i wanted to make sure that it runs on all browsers and that everything works on the website such as embeded links, content and images. 
   
-  Browsers it supports: 
+ # Browsers it supports: 
         Google Chrome
         Safari 
         Microsoft Edge
         Firefox 
         
 # Desktop 
-
-
-
+![](desktophomepage.jpg)
+![](desktopabout.jpg)
+![](desktopfestival.jpg)
+![](desktopshows.jpg)
+![](desktopgallery.jpg)
+![](desktopcontact.jpg)
 
 # Mobile
-
-![mobilehomepage.jpg](webdesign/images/mobilehomepage.jpg)
+![](mobilehomepage.jpg)
+![](mobileabout.jpg)
+![](mobilefesival.jpg)
+![](mobileshows.jpg)
+![](mobilegallery.jpg)
+![](mobilecontactme.jpg)
         
 # Problems along the way
 There main probelms that occured was some of the images would not load when trying to run the website however with some research this was quickly mended. Also when trying to use float sometimes it would not work but when playing around with it made everything fall into place.
