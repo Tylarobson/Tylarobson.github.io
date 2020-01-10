@@ -6,9 +6,9 @@
   
  # Links
   
-  Website: 
+  Website: https://tylarobson.github.io/index.html
   
-  Github: 
+  Github: https://github.com/Tylarobson/Tylarobson.github.io
   
  # Install
   npm install and npn run sass-watch
@@ -49,7 +49,7 @@
 
 # Mobile
 
-![mobilehomepage.jpg](myfiles/playfiles/documents/webdesign)
+![mobilehomepage.jpg](webdesign/images/mobilehomepage.jpg)
         
 # Problems along the way
 There main probelms that occured was some of the images would not load when trying to run the website however with some research this was quickly mended. Also when trying to use float sometimes it would not work but when playing around with it made everything fall into place.
