@@ -53,7 +53,7 @@
 # Mobile
 ![](mobilehomepage.jpg)
 ![](mobileabout.jpg)
-![](mobilefesival.jpg)
+![](mobilefestival.jpg)
 ![](mobileshows.jpg)
 ![](mobilegallery.jpg)
 ![](mobilecontactme.jpg)
